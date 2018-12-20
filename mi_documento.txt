@@ -1,2 +1,3 @@
 ¡hola mundo!
-Pruebas con el stage...
+Pruebas con el stage
+Pruebas con el checkout
